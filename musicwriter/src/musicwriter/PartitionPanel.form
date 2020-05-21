@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.6" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JPopupMenu" name="jPopupMenu1">
+      <Properties>
+        <Property name="componentPopupMenu" type="javax.swing.JPopupMenu" editor="org.netbeans.modules.form.ComponentChooserEditor">
+          <ComponentRef name="jPopupMenu1"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="jPopupMenu1" noResource="true"/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <MenuItem class="javax.swing.JMenuItem" name="mnuLecture">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="mnuLecture.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="mnuLecture.text"/>
+            <Property name="name" type="java.lang.String" value="mnuLecture" noResource="true"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mnuLectureActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mnuTempsInserer">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="musicwriter.PartitionPanel" id="tempsInserer" methodName="tempsInserer"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="mnuTempsInserer.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="mnuTempsInserer.text"/>
+            <Property name="name" type="java.lang.String" value="mnuTempsInserer" noResource="true"/>
+          </Properties>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mnuTempsSupprimer">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="mnuTempsSupprimer.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="mnuTempsSupprimer.text"/>
+            <Property name="name" type="java.lang.String" value="mnuTempsSupprimer" noResource="true"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mnuTempsSupprimerActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mnuClefInserer">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="musicwriter.PartitionPanel" id="clefInserer" methodName="clefInserer"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="mnuClefInserer.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="mnuClefInserer.text"/>
+            <Property name="name" type="java.lang.String" value="mnuClefInserer" noResource="true"/>
+          </Properties>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mnuInsererChangementTonalite">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="mnuInsererChangementTonalite.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="mnuInsererChangementTonalite.text"/>
+            <Property name="name" type="java.lang.String" value="mnuInsererChangementTonalite" noResource="true"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mnuInsererChangementTonaliteActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <Menu class="javax.swing.JMenu" name="mnuMesure">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="mnuMesure.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="mnuMesure.text"/>
+            <Property name="name" type="java.lang.String" value="mnuMesure" noResource="true"/>
+          </Properties>
+          <SubComponents>
+            <MenuItem class="javax.swing.JMenuItem" name="mnuMesureCorriger">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" resourceKey="mnuMesureCorriger.icon"/>
+                <Property name="text" type="java.lang.String" resourceKey="mnuMesureCorriger.text"/>
+                <Property name="name" type="java.lang.String" value="mnuMesureCorriger" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mnuMesureCorrigerActionPerformed"/>
+              </Events>
+            </MenuItem>
+            <MenuItem class="javax.swing.JMenuItem" name="mnuMesureSignatureChanger">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" resourceKey="mnuMesureSignatureChanger.icon"/>
+                <Property name="text" type="java.lang.String" resourceKey="mnuMesureSignatureChanger.text"/>
+                <Property name="name" type="java.lang.String" value="mnuMesureSignatureChanger" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mnuMesureSignatureChangerActionPerformed"/>
+              </Events>
+            </MenuItem>
+          </SubComponents>
+        </Menu>
+        <MenuItem class="javax.swing.JMenuItem" name="mnuInsererTempo">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="musicwriter.PartitionPanel" id="tempoInserer" methodName="tempoInserer"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="mnuInsererTempo.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="mnuInsererTempo.text"/>
+            <Property name="name" type="java.lang.String" value="mnuInsererTempo" noResource="true"/>
+          </Properties>
+        </MenuItem>
+        <Menu class="javax.swing.JMenu" name="mnuNotes">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="mnuNotes.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="mnuNotes.text"/>
+            <Property name="name" type="java.lang.String" value="mnuNotes" noResource="true"/>
+          </Properties>
+          <SubComponents>
+            <MenuItem class="javax.swing.JMenuItem" name="mnuNotesLierAuxSuivantes">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="musicwriter.PartitionPanel" id="notesLierAuxSuivantes" methodName="notesLierAuxSuivantes"/>
+                </Property>
+                <Property name="icon" type="javax.swing.Icon" resourceKey="mnuNotesLierAuxSuivantes.icon"/>
+                <Property name="text" type="java.lang.String" resourceKey="mnuNotesLierAuxSuivantes.text"/>
+                <Property name="name" type="java.lang.String" value="mnuNotesLierAuxSuivantes" noResource="true"/>
+              </Properties>
+            </MenuItem>
+            <MenuItem class="javax.swing.JMenuItem" name="mnuNotesNePasLierAuxSuivantes">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="musicwriter.PartitionPanel" id="notesNePasLierAuxSuivantes" methodName="notesNePasLierAuxSuivantes"/>
+                </Property>
+                <Property name="icon" type="javax.swing.Icon" resourceKey="mnuNotesNePasLierAuxSuivantes.icon"/>
+                <Property name="text" type="java.lang.String" resourceKey="mnuNotesNePasLierAuxSuivantes.text"/>
+                <Property name="name" type="java.lang.String" value="mnuNotesNePasLierAuxSuivantes" noResource="true"/>
+              </Properties>
+            </MenuItem>
+          </SubComponents>
+        </Menu>
+        <Menu class="javax.swing.JMenu" name="mnuSelection">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="mnuSelection.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="mnuSelection.text"/>
+            <Property name="name" type="java.lang.String" value="mnuSelection" noResource="true"/>
+          </Properties>
+          <SubComponents>
+            <MenuItem class="javax.swing.JMenuItem" name="jMenuItem2">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="jMenuItem2.text"/>
+                <Property name="name" type="java.lang.String" value="jMenuItem2" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jMenuItem2ActionPerformed"/>
+              </Events>
+            </MenuItem>
+          </SubComponents>
+        </Menu>
+      </SubComponents>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="background" type="java.awt.Color" resourceKey="Form.background"/>
+    <Property name="componentPopupMenu" type="javax.swing.JPopupMenu" editor="org.netbeans.modules.form.ComponentChooserEditor">
+      <ComponentRef name="jPopupMenu1"/>
+    </Property>
+    <Property name="name" type="java.lang.String" value="Form" noResource="true"/>
+  </Properties>
+  <Events>
+    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="formMouseClicked"/>
+    <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="formMousePressed"/>
+    <EventHandler event="mouseReleased" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="formMouseReleased"/>
+    <EventHandler event="mouseDragged" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="formMouseDragged"/>
+    <EventHandler event="mouseMoved" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="formMouseMoved"/>
+    <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="formKeyPressed"/>
+    <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="formKeyReleased"/>
+    <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="formKeyTyped"/>
+  </Events>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="2"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <EmptySpace min="0" pref="479" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <EmptySpace min="0" pref="395" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+</Form>

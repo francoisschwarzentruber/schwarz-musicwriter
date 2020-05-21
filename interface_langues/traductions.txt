@@ -1,0 +1,664 @@
+== Fiche principale ==
+
+Partition	Score
+Ecrire	Write
+Sélection	Selection
+Clefs	Clefs
+Nuances	Nuances?
+Mesures	Bars
+Portées	Staves
+Affichage	View
+Ecouter	Play
+Enregistrer	Record
+Options	Options
+Aide	Help
+Fermer	Close
+
+Nouveau	New
+Nouvelle partition piano	New piano score
+Nouvelle partition guitare	New guitar score
+Nouvelle partition (personnalisée)...	New (customized) score...
+Nouvelle partition autre chose	New (customized) score
+Ouvrir une partition déjà enregistrée	Open a saved score
+
+
+Ouvrir	Open
+Sauvegarder	Save
+Sauvegarder sous	Save as
+Exporter en MIDI	Export in MIDI
+Exporter pour Lilypond	Export to Lilypond
+Imprimer	Print
+
+Annuler	Undo
+Refaire	Redo
+
+Voix courante :	Current voice:
+
+
+Voix automatique	Automatic voice
+Nouvelle voix	New voice
+
+Choix automatique de la voix courante	Automatic current voice choice
+Gestion des voix...	Voices manager...
+Ecrire dans une nouvelle voix	Write a new voice
+
+
+== gestion des voix ==
+
+Ajouter des paroles	Add lyrics
+Liste des instruments :	Instruments list:
+Aller dans la voix	Work in that voice
+
+
+
+
+j'écris avec la souris	I write with the mouse
+j'écris avec le clavier	I write with the keyboard
+j'écris avec le microphone	I write with the microphone
+
+Coller	Paste
+
+Durée des notes :	Notes duration:
+Durée des silences :	Rests duration:
+
+Ronde	Whole
+Blanche	Minim
+Noire	Crochtet
+Croche	Quaver
+Db-croche	Sixteenth
+
+Ronde (4)	Whole (4)
+Blanche (2)	Minim (2)
+Noire (1)	Crochtet (1)
+Croche (1, 2)	Quaver (1, 2)
+Db-croche (1, 4)	Sixteenth (1, 4)
+
+double-pointée double-pointed
+pointée	pointed
+
+J'écris...	I write...
+...des notes (entrée)	...notes (enter)
+...des silences (espace)	...rests (space)
+
+
+Voix specifique (Alt+C)	Specific voice (Alt+C)
+Nouvelle voix (Alt+N)	New voice (Alt+N)
+N'importe quelle voix (Alt+V)	Any voice (Alt+V)
+Au microphone !	With my microphone !
+
+Opérations	Operations
+Voix	Voices
+Durée	Duration
+Durée (en fraction) :	Duration (fraction):
+
+
+Changer les durées	Change durations
+Durée indéterminée	Not specified duration
+Deviner les durées	Guess durations
+Lier à la suivante	
+
+Voix dans la sélection :	Voices in selection:
+Sous-sélectionner :	Sub-select:
+Altérations	Alterations
+Durées	Durations
+Déplacer d'une portée :	Move staff:
+Placer dans :	Move in:
+
+
+Altérer...	Alterate...
+Altérer via tonalité...	Alterate (tonality):
+Enharmoniques :	Inharmonics:
+
+Couper	Cut
+Copier	Copy
+Trilles	Trills
+Attributs	Attributes
+Grandes notes	Big notes
+
+
+
+
+Clique dans la partition pour ajouter/modifier la clef.	Click in the score to add/modify a clef.
+
+Clef de sol	Treble clef
+Clef de fa	Bass clef
+Clef d'ut	Alto clef
+à l'octave sup.	?!
+à l'octave inf.	?!
+Fin "à l'octave" End of ...?
+
+
+
+Instruments présents dans la partition	Instruments in the score
+
+Après certaines modifications, tu ne pourras plus annuler les opérations précédentes !	Warning: some modification can not be undone.
+Quand tu ajoutes un instrument, tu ne pourras plus annuler les opérations précédentes !	Warning: adding an instrument can not be undone !
+
+Ajouter un instrument	Add instrument
+Supprimer l'instrument	Delete instrument
+Deplacer en haut	Move up
+Deplacer en bas	Move down
+Propriétés	Properties
+
+Ajouter un instrument à la partition	Add an instrument to the score
+Instrument sélectionné :	Selected instrument:
+Ajouter	Add
+
+Général	General
+Nom de la portée :	Staff name:
+
+Ajouter une portée en haut	Add staff up
+Ajouter une portée en bas	Add staff down
+Supprimer la portée	Delete staff
+
+
+
+Zoom arrière	Zoom out
+Zoom avant	Zoom in
+
+Afficher la partition...	Show score...
+...en ruban	...tape
+sur des pages	pages
+
+
+Lecture	Play
+Pause	Pause
+Stop	Stop
+Aller au début	Go to the begin
+Aller à la fin	Go to the end
+Vitesse :	Speed:
+
+Poser une marque	Put a hotspot
+Effacer toutes les marques	Delete all hotspots
+
+
+
+J'entre mes notes à partir :	I write with:
+du périhérique MIDI d'entrée	my MIDI device
+du clavier	my keyboard
+Commencer l'enregistrement	Record
+Arrêter l'enregistrement	Stop recording
+
+
+
+
+
+== Nouveau (assistant) ==
+
+Nouvelle partition	New score
+Choix des instruments	Instruments choice
+Titre	Title
+Tonalités et rythmes	Tonality and rythms
+Je compose !	I write!
+Etape 1 sur 3 - Choix des instruments	Step 1/3 - Instruments choice
+
+Glissez-déposez des instruments de la liste de tous les instruments disponibles sur la feuille blanche.	Drag and drop instruments from instruments list to the white sheet.
+Ma partition :	My score:
+(déposer des instruments ici)	(Drop instruments here)
+Nouveau à partir d'un modèle préenregistré...	New score from model
+Liste de tous les instruments disponibles :	Instruments list
+<< Précédent	<< Back
+Suivant >>	Next >>
+Créer la partition	Create score
+Vous n'avez pas entré d'instruments ! Qui va donc jouer votre oeuvre ?	There are no instruments in your score. What instrument(s) is(are) going to play your music ?
+
+
+
+
+Etape 2 sur 3 - Un titre à votre partition	Step 2/3 - The score title
+Titre :	Title:
+
+Voici à quoi ressemble votre partition :	Here you can see what will look like your new score:
+
+Etape 3 sur 3 - Dernier réglage : tonalité et rythme	Step 3/3 - Tonality and rythms
+Rythme :	Rythm:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+== Paroles ==
+
+Paroles	Lyrics
+Paroles de la voix :	Lyrics for the voice:
+Insérer un séparateur de syllabe (tab)	Insert a separation (tab)
+
+
+
+
+
+
+== Bienvenue ==
+
+Bienvenue	Welcome
+Que voulez-vous faire ?	What do you want to do ?
+
+
+
+
+
+== Mesures ==
+
+Gestionnaire de mesures	Bars properties
+
+Ajouter mesure à gauche	Add bar on the left
+Ajouter mesure à droite	Add bar on the right
+Supprimer mesures	Delete bars
+
+De la mesure	From
+à	to
+
+Tempo affiché	Tempo
+Métronome	Metronom ?
+Signature temporelle	Time signature
+Signature temporelle :	Time signature:
+Mettre les barres de mesures correctement	Recalculate bars position
+
+Tonalité	Tonality
+Barres de mesure	Bars
+Barre au début :	Bar at the beginning:
+Barre à la fin :	Bar at the end:
+
+
+Appliquer	Apply
+
+
+
+
+
+La partition	The score
+a été modifiée depuis. Voulez-vous enregistrer les modifications ?	has been modified. Do you want to save the modifications ?
+
+OUI,	Yes,
+on enregistre	save the modifications
+Ne pas fermer !	Don't close the score !
+NON,	No,
+on abandonne les modifications	leave the modifications behind
+
+
+
+
+
+
+
+
+
+
+
+
+<<Partition piano seul non enregistrée>>	<<Unsaved piano score>>
+<<Partition guitare seule non enregistrée>>	<<Unsaved guitar score>>
+<<Nouvelle partition non enregistrée>>	<<Unsaved new score>>
+
+majeur	major
+mineur	minor
+
+
+
+
+
+
+ajouter un dièse à la clef	add a sharp to the clef
+ajouter un bémol à la clef	add a flat to the clef
+supprimer un dièse à la clef	remove a sharp to the clef
+supprimer un bémol à la clef	remove a flat to the clef
+
+
+
+
+
+
+
+
+
+
+
+
+== fiche document ==
+
+Ici, mesure n°%d, portée n°%d	Here, bar n°%d, stave n°%d
+Supprimer la mesure n°%d	Delete bar n°%d
+Propriété de la portée n°%d	Property of the stave n°%d
+Juste cette portée (portée n°%d) (+ bascule en mode page)	Juste cette portée (portée n°%d) (+ bascule en mode page)
+Barre de mesure, ie on coupe au temps %s de la mesure n°%d	Bar line on the time %s of the bar n°%d
+Lire et écouter la partition à partir d'ici	Listen from here
+Coller	Paste
+Coller en inversant	Mirror paste
+Coller en un gros accord	Paste in a big chord
+Voix	Voices
+Insérer	Insert
+Affichage	View
+
+
+
+Sélection courante	Current selection
+Couper la sélection	Cut the selection
+Copier la sélection	Copy the selection
+Supprimer la sélection	Delete the selection
+Déplacer la sélection	Move the selection
+"Octavier" la sélection	?!
+
+Altérer les notes de la selection	Alter the selection
+Enharmoniquer selon une tonalité...	Enharmonics according to a tonality
+Transposer la sélection	Transpose the selection
+Arpéger la sélection	.To put chords in arpeggio
+
+
+Reprendre la lecture à partir d'ici	Restart playing from here
+Arrêter la lecture	Stop
+
+Notes qui sont des "%s"	Notes which are "%s"
+
+
+
+
+
+
+
+Ouvrir une partition existante...	Open a saved score...
+Nouveau à partir d'un modèle	New from model
+Ouvrir	Open
+Autres...	Other things...
+
+
+
+
+
+
+
+
+
+== Intro ==
+Synthétiseur externe détecté	External MIDI device detected !
+Chargement...	Loading...
+Périphérique MIDI détecté !	External MIDI device detected !
+chargement de la fenêtre principale...	loading main window...
+boîte d'options...	options window...
+chargement du midi-in...	loading midi-in...
+chargement des bitmaps...	loading bitmaps...
+chargement des modèles...	loading models...
+chargement des rythmes...	loading rythms...
+chargement de la liste des instruments...	loading instruments list...
+chargement des images d'instruments...	loading instruments pictures...
+chargement des curseurs...	loading cursors...
+chargement des bitmaps secondaires...	loading secondary bitmaps...
+
+
+On ne peut pas insérer de clef ici... on est en dehors de la partition.	We can not insert a clef here because the cursor is not in the score.
+
+On ne peut pas aller plus à droite : on est déjà à la fin de la partition.	We can not go further on the right: we are already on the end of the score.
+
+On ne peut aller plus à gauche : on est déjà au début du document.	We can not go further on the left: we are already on the beginning of the score.
+
+
+
+
+== menu sur une clef ==
+
+Changer en clef de sol	Change in trebble clef
+Changer en clef de fa	Change in bass clef
+Changer en clef d'ut	Change in alto clef
+
+Tonalité	Tonality
+Rythme	Rythm
+
+
+
+
+== menu de barre de mesure ==
+
+Barre entre la mesure n°%d et %d	Bar line between bar n°%d and %d
+Barre finale de la partition	Last bar line of the score
+Transformer en barre de mesure simple	Transform in simple bar line
+Transformer en barre de reprise	Transform in reprise bar line
+Transformer en double-barre	Transform in double bar line
+Supprimer la barre	Delete bar line
+Tonalité à partir d'ici	Tonality from here
+Rythme à partir d'ici	Rythm from here
+
+
+Jusque là, on reprend	We repeat until here.
+A partir de là, on reprend	We repeat from here.
+Jusque là, et à partir de là, on reprend	We repeat until here. We repeat from here.
+
+
+
+
+
+
+
+
+
+toutes les portées	all staves
+Portée n°%d, nom : %s	Stave n°%d, name : %s
+Portées n°%d à %d, nom : %s	Staves n°%d to %d, name : %s
+
+
+
+
+
+
+
+
+
+
+
+
+
+== Instruments ==
+
+Piano	Piano
+Bright Acoustic	Bright Acoustic
+Electric Grand	Electric Grand
+Honky-Tonk	Honky-Tonk
+Electric Piano 1	Electric Piano 1
+Electric Piano 2	Electric Piano 2
+Clavecin	Harpsicord
+Clavinet	Clavinet
+Celesta	Celesta
+Glockenspiel	Glockenspiel
+Music Box	Music Box
+Vibraphone	Vibraphone
+Marimba	Marimba
+Xylophone	Xylophone
+Tubular Bells	Tubular Bells
+Dulcimer	Dulcimer
+Drawbar Organ	Drawbar Organ
+Percussive Organ	Percussive Organ
+Rock Organ	Rock Organ
+Orgue d'église	Organ
+Reed Organ	Reed Organ
+Accoridan	Accoridan
+Harmonica	Harmonica
+Tango Accordian	Tango Accordian
+Guitare	Guitar
+Steel String Guitar	Steel String Guitar
+Electric Jazz Guitar	Electric Jazz Guitar
+Electric Clean Guitar	Electric Clean Guitar
+Electric Muted Guitar	Electric Muted Guitar
+Overdriven Guitar	Overdriven Guitar
+Distortion Guitar	Distortion Guitar
+Guitar Harmonics	Guitar Harmonics
+Acoustic Bass	Acoustic Bass
+Electric Bass(finger)	Electric Bass(finger)
+Electric Bass(pick)	Electric Bass(pick)
+Fretless Bass	Fretless Bass
+Slap Bass 1	Slap Bass 1
+Slap Bass 2	Slap Bass 2
+Synth Bass 1	Synth Bass 1
+Synth Bass 2	Synth Bass 2
+Violon	Violin
+Alto	Alto
+Violoncelle	Cello
+Contrebasse	Double bass
+Tremolo Strings	Tremolo Strings
+Pizzicato Strings	Pizzicato Strings
+Orchestral Strings	Orchestral Strings
+Timbales	Kettledrum
+String Ensemble 1	String Ensemble 1
+String Ensemble 2	String Ensemble 2
+SynthStrings 1	SynthStrings 1
+SynthStrings 2	SynthStrings 2
+Choir Aahs	Choir Aahs
+Voice Oohs	Voice Oohs
+Synth Voice	Synth Voice
+Orchestra Hit	Orchestra Hit
+Trompette	Trumpet
+Trombone	Trombone
+Tuba	Tuba
+Muted Trumpet	Muted Trumpet
+Cor d'harmonie	Brass Horn
+Brass Section	Brass Section
+SynthBrass 1	SynthBrass 1
+SynthBrass 2	SynthBrass 2
+Soprano Sax	Soprano Sax
+Alto Sax	Alto Sax
+Tenor Sax	Tenor Sax
+Baritone Sax	Baritone Sax
+Hautbois	Hautbois
+Cor anglais	Cor anglais
+Basson	Bassoon
+Clarinette	Clarinet
+Piccolo	Piccolo
+Flûte	Flute
+Flûte à bec	Recorder
+Flûte de Pan	Flûte de Pan
+Blown Bottle	Blown Bottle
+Skakuhachi	Skakuhachi
+Sifflet	Sifflet
+Ocarina	Ocarina
+Lead 1 (square)	Lead 1 (square)
+Lead 2 (sawtooth)	Lead 2 (sawtooth)
+Lead 3 (calliope)	Lead 3 (calliope)
+Lead 4 (chiff)	Lead 4 (chiff)
+Lead 5 (charang)	Lead 5 (charang)
+Lead 6 (voice)	Lead 6 (voice)
+Lead 7 (fifths)	Lead 7 (fifths)
+Lead 8 (bass+lead)	Lead 8 (bass+lead)
+Pad 1 (new age)	Pad 1 (new age)
+Pad 2 (warm)	Pad 2 (warm)
+Pad 3 (polysynth)	Pad 3 (polysynth)
+Pad 4 (choir)	Pad 4 (choir)
+Pad 5 (bowed)	Pad 5 (bowed)
+Pad 6 (metallic)	Pad 6 (metallic)
+Pad 7 (halo)	Pad 7 (halo)
+Pad 8 (sweep)	Pad 8 (sweep)
+FX 1 (rain)	FX 1 (rain)
+FX 2 (soundtrack)	FX 2 (soundtrack)
+FX 3 (crystal)	FX 3 (crystal)
+FX 4 (atmosphere)	FX 4 (atmosphere)
+FX 5 (brightness)	FX 5 (brightness)
+FX 6 (goblins)	FX 6 (goblins)
+FX 7 (echoes)	FX 7 (echoes)
+FX 8 (sci-fi)	FX 8 (sci-fi)
+Sitar	Sitar
+Banjo	Banjo
+Shamisen	Shamisen
+Koto	Koto
+Kalimba	Kalimba
+Cornemuse	Bagpipes
+Violon (2) (fiddle)	Fiddle
+Shanai	Shanai
+Tinkle Bell	Tinkle Bell
+Agogo	Agogo
+Steel Drums	Steel Drums
+Woodblock	Woodblock
+Taiko Drum	Taiko Drum
+Melodic Tom	Melodic Tom
+Synth Drum	Synth Drum
+Reverse Cymbal	Reverse Cymbal
+Guitar Fret Noise	Guitar Fret Noise
+Breath Noise	Breath Noise
+Seashore	Seashore
+Bird Tweet	Bird Tweet
+Sonnerie de téléphone	Phone ring
+Helicoptère	Helicopter
+Applaudissement	Applause
+Coup de feu	Shot
+
+
+
+
+
+
+
+== options ==
+
+Affichage de la partition	Score view
+Optimisations	Optimizations
+Présentation	Presentation
+Numérotation des mesures	Bars numerotation
+Noms des portées	Staves' names
+Barres de mesures	Bar lines
+Couleurs des voix	Voices' colors
+Interface	Interface
+Démarrage	Loading
+Barre d'outils	Toolbars
+Aide	Help
+Configuration de la souris	Mouse configuration
+Comportement de la souris	Mouse behaviour
+Dessin du curseur de la souris	Mouse cursors
+Edition	Edit
+Portées actives du mode ruban	Active stave in ribbon mode
+Entrées son	Sound input
+Entrée microphone	Microphone
+Entrée MIDI	MIDI
+
+
+Les notes sont des :	Notes are:
+Ellipses	Ellipses
+cercles	circles
+Afficher la partition quand elle défile à l'écran	Show score when scrolling
+Eviter les clignotemeents à l'affichage	Avoid blickings
+
+
+
+Aucune	None
+Toutes les 5 mesures	Every five bars
+En début de ligne	Every new line
+Toutes les mesures	Every bar
+
+
+Sur la première ligne	Only on the first line
+Partout	Everywhere
+
+
+Tout le long	??
+S'arrêter à chaque instrument	 ???
+S'arrêter à chaque portée ??
+
+Afficher le fond des voix en couleur	Show voices background color in score
+
+
+Sauver et appliquer	Save and apply
+
+
+
+
+== Changer la durée ==
+
+Changer la durée des éléments sélectionnées	Change durations of selected elements
+Durée :	Duration:
+Appliquer	Apply
+Fermer	Close
+
+
+
+
+
+A partir d''ici, mesure n°%d	From here, bar n°%d
+
+
+
+Clique sur une voix dans la partition.	Click on a voice in the score.
+Dans quelle voix veux-tu écrire ?	In which voice do you want to write ?
+Clique sur la voix pour laquelle tu veux ajouter des paroles.	Click on the voice you want to add lyrics.

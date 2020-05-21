@@ -1,0 +1,12 @@
+TComposition.minHauteurLigne
+TComposition.CalcPorteesPixy
+TComposition.Paginer
+
+Function TComposition.DerniereLigneAffichee(iLigne: integer): integer;
+Function TComposition.PremiereLigneAffichee(iLigne: integer): integer;
+
+
+TComposition.Selectionner
+
+
+hauteurdefautqueue*ZoomPortee(p) div ZoomMaxPrec

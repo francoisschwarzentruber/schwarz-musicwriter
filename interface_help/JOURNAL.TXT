@@ -1,0 +1,5 @@
+.LOG
+
+21:56 19/11/03
+dans le temps, ça ne réaffichait pas toujours correctement la fin d'une partition qd le défilement était rapide. Maintenant, c'est bon.
+23:57 19/04/04

@@ -1,0 +1,63 @@
+Nouvelle partition...
+Nouvelle partition piano
+Nouvelle partition guitare
+Ouvrir une partition...
+Charger une partition...
+Enregistrer une partition...
+
+Transposer les notes sélectionnées...
+Déplacer les notes sélectionnées verticalement...
+Bouger les notes sélectionnées verticalement...
+
+
+Ecrire une note
+Ecrire une ronde
+Ecrire une blanche
+Ecrire une noire
+Ecrire une croche
+Ecrire un triolet
+Ecrire une double-croche
+Ecrire une triple-croche
+
+Entrer une note
+Entrer une ronde
+Entrer une blanche
+Entrer une noire
+Entrer une croche
+Entrer un triolet
+Entrer une double-croche
+Entrer une triple-croche
+
+Ecrire un silence
+Ecrire une pause
+Ecrire une demi-pause
+Ecrire un soupir
+Ecrire un demi-soupir
+Ecrire un quart de soupir
+
+Entrer un silence
+Entrer une pause
+Entrer une demi-pause
+Entrer un soupir
+Entrer un demi-soupir
+Entrer un quart de soupir
+
+
+Enregistrer des notes à partir du microphone
+Enregistrer des notes à partir de mon synthétiseur/clavier
+
+
+
+Lire ma partition
+Ecouter ma partition
+Entendre ma partition
+Jouer ma partition (l'écouter)
+Play
+
+
+
+
+
+
+
+

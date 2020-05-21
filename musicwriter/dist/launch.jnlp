@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://www.irit.fr/~Francois.Schwarzentruber/musicwriterjava/" href="launch.jnlp">
+    <information>
+        <title>Schwarz Musicwriter</title>
+        <vendor>François Schwarzentruber</vendor>
+        <homepage href="http://appframework.dev.java.net"/>
+        <description>A simple java desktop application based on Swing Application Framework</description>
+        <description kind="short">Schwarz Musicwriter</description>
+        <offline-allowed/>
+    </information>
+    <resources>
+        <j2se version="1.5+"/>
+        <jar href="musicwriter.jar" main="true" download="eager"/>
+        <jar href="lib/appframework-1.0.3.jar" download="eager"/>
+        <jar href="lib/swing-worker-1.1.jar" download="eager"/>
+        <jar href="lib/jdom.jar" download="eager"/>
+        <jar href="lib/AbsoluteLayout.jar" download="eager"/>
+    </resources>
+    <application-desc main-class="musicwriter.MusicwriterApp">
+    </application-desc>
+</jnlp>

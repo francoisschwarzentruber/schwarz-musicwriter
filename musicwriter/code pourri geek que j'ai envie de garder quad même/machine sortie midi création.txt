@@ -1,0 +1,24 @@
+Synthesizer synth = null;
+        Sequencer seq;
+        Transmitter seqTrans;
+
+        try {
+       // synth = MidiSystem.getSynthesizer();
+      //  synth.open();
+            
+          inputDevice = machineSortieMIDI;
+          inputDevice.open();
+          receiver = machineSortieMIDI.getReceiver();  
+            
+            
+        seq = MidiSystem.getSequencer();
+        seqTrans = seq.getTransmitter();
+     //   receiver = synth.getReceiver();
+        seqTrans.setReceiver(receiver);
+        changerInstrument(44); 
+
+        } catch (MidiUnavailableException ex1) {
+            Erreur.message("Désolé. J'ai un problème pour que tu puisses écouter des sons MIDI.");
+             ex1.printStackTrace();
+        
+        }

@@ -1,0 +1,58 @@
+images des menu :
+0 couper
+1 copier
+2 coller
+3 anuller
+4 répéter
+5 supprimer
+6 nouveau
+7 ouvrir
+8 enregistrer
+9 aperçu
+10 propriété
+11 aide
+12 loupe
+13 ??
+14 imprimer
+15 G
+16 E
+17 STION fenêtre
+18 fermer
+19 enregistrer sous
+20 midi
+21 quitter
+22 coller en inversant
+23 doigtées
+24 mode page
+25 mode ruban
+26 ajouter une mesure
+27 suppr une mesure
+28 mesure prop
+29 portee prop
+30 queue vers le haut
+31 queue vers le bas
+32 enharmonique
+33 lié à la suivante
+34 subselection : notes du bas
+35 subselection : notes du haut
+36 : enregistrer avec le microphone
+37 : lecture
+38 : pause
+39 : stop
+40 : cette portée (n'afficher que)
+41 : toutes les voix
+42 : nouvelle voix
+43 : voix sous curseur
+44 : voix auto
+45 : gestion des voix
+46 : mode souris
+47 : mode clavier
+48 : mode stylet
+49 : Clef de sol
+50 : Clef de fa
+51 : Clef d'ut
+52 : pas d'accent
+53 : trille
+54 : piqué
+55 : pizzicato
+56 : mode page pour éditer
